@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-In the editor, write some text and tell a little about myself.
+This was a class project to teach a student how to post a project to GitHub. 
